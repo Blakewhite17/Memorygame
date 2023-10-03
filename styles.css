@@ -3,8 +3,8 @@
   height: 200px;
   display:flex;
   flex-wrap: wrap;
-  text-align: center;
+  
 }
 body {
-  background-color: rgb(202, 202, 218);
+  background-color: rgb(217, 217, 235);
 }
